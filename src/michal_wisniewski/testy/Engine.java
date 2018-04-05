@@ -45,10 +45,5 @@ public class Engine {
         started = false;
     }
 
-    public boolean isStarted(boolean started)
-    {
-        this.started=started;
-    }
-
     // ctrl + shift + spacja = popowiadanie kodu ktory aktualnie jest do u
 }
